@@ -30,7 +30,3 @@ https://kabilanramachandran.github.io
 GitHub:
 https://github.com/kabilanramachandran
 
-https://kabilanramachandran.github.io
-
-GitHub:
-https://github.com/kabilanramachandran
